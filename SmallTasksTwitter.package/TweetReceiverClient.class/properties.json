@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "SmallTasksTwitter-TweetReceivers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"receiver",
+		"hashtag"
+	],
+	"name" : "TweetReceiverClient",
+	"type" : "normal"
+}

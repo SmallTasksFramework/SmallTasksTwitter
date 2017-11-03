@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "TweetReceiver",
+	"category" : "SmallTasksTwitter-TweetReceivers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tasks",
+		"moreTweets"
+	],
+	"name" : "StreamingTweetReceiver",
+	"type" : "normal"
+}

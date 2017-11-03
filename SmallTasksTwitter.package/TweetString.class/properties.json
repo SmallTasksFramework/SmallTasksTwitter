@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "StringTransformer",
+	"category" : "SmallTasksTwitter-Valuables",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TweetString",
+	"type" : "normal"
+}

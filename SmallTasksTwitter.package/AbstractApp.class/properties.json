@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "SmallTasksTwitter-App",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"hashtag",
+		"client"
+	],
+	"name" : "AbstractApp",
+	"type" : "normal"
+}
